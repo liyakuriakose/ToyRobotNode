@@ -1,0 +1,9 @@
+{
+  "name": "toy-robot",
+  "version": "0.0.0",
+  "description": "ToyRobot",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
